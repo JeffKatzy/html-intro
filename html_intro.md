@@ -19,3 +19,5 @@ First, let's read a little bit about HTML, and then we'll explore it directly wi
 ![](./wiki-html.png)
 
 Ok, now what does this all mean?
+
+**up next** [html activities](./html_activities.md)
