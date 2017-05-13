@@ -7,21 +7,21 @@ Answer with the person sitting next to you.
 
 ![](./wiki-html.png)
 
-### Read less, do more 
+### Read less, do more
 
 Go to [espn](http://www.espn.com/nhl/team/roster/_/name/nyr/new-york-rangers) again.
 
-#### 1. Open the console 
+#### 1. Open the console
 
 ![alt text](./open-console.gif)
-	
+
 > From the espn webpage, look at the menu at the chrome menu at the top of the page, and click on *view*, then at the very bottom of the view dropdown it says *developer*.  Upon clicking on developer at the bottom of that you will see *Developer Tools*.  Click on Developer Tools.  This will pop up the Google Developer Console.  (A quicker way to open up the console in the future is to press command+shift+i).  
 
 #### 2. Try to manipulate the Webpage
 
 We'll get you started.  
 
-Make sure that the icon at the top left of the developer tools is highlighted, as you see below. 
+Make sure that the icon at the top left of the developer tools is highlighted, as you see below.
 
 ![](./icon-highlighted-arrow.png)
 
@@ -47,3 +47,5 @@ Now, with a partner, take another shot at the same questions.
 2. The image in Wikipedia displays HTML.  How does that line up to your understanding of what HTML is?
 
 ![](./wiki-html.png)
+
+**up next**[environment setup](./environment_setup.md)
